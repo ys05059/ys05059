@@ -1,4 +1,12 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=Jae%20Woong&fontSize=80&fontAlignY=45&desc=Android%20Developer&descAlignY=60&descSize=15&theme=gruvbox_light)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/android-20232a.svg?style=for-the-badge&logo=android&color=78C257&logoColor=white" />
+  <img src="https://img.shields.io/badge/kotlin-20232a.svg?style=for-the-badge&logo=kotlin&color=7F52FF&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack Compose-20232a.svg?style=for-the-badge&logo=kotlin&color=4285F4&logoColor=white" />
+</div>
+
+
 
 <!--
 **ys05059/ys05059** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
